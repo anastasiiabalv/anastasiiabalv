@@ -10,7 +10,7 @@ I enjoy solving challenging real-world problems and turning complex ideas into r
 
 <br>
 
-![GitHub Banner](banner.svg)
+![GitHub Banner](github_banner.svg)
 
 <br>
 
