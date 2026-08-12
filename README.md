@@ -17,6 +17,8 @@ I enjoy solving challenging real-world problems and turning complex ideas into r
 <h2 align="center">Connect with me</h2>
 
 <p align="center">
+  <a href="https://anastasiiabalv.com" target="_blank">Website</a>
+  &nbsp; • &nbsp;
   <a href="https://www.linkedin.com/in/anastasiia-balieieva-33714936a/" target="_blank">LinkedIn</a>
   &nbsp; • &nbsp;
   <a href="https://x.com/anastasiiabalv" target="_blank">Twitter</a>
