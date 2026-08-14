@@ -1,6 +1,6 @@
 ## Hi all 👋
 
-I'm Ana, a full-stack software developer and founding engineer at FX-ATS Dev, where I build FinTech systems with **Nuxt, NestJS, MongoDB, and MT4/MT5**.
+I'm Ana, a full-stack software developer and Founding Engineer at FX-ATS Dev, where I build FinTech systems with **Nuxt, NestJS, MongoDB, and MT4/MT5**.
 
 I focus on building stable, scalable, and automated systems, with an emphasis on performance, usability, and developer experience. I use tools like **GitHub Actions, Cron, Pinia,** and others to automate workflows and optimize applications.
 
