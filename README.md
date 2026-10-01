@@ -1,6 +1,7 @@
 ## Hi, I'm Ana 👋
-
+<p style="text-align:center;">
 ### **MetaTrader & FinTech full-stack developer.** 
+</p>
 
 I've been trading for about 5 years, and I build the technical side of it myself — systems that run on real money today. At **FX-ATS Group** I built and run the in-house trading infrastructure and monitoring, live for about 2 years.
 
