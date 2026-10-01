@@ -1,29 +1,48 @@
-## Hi all 👋
+## Hi, I'm Ana 👋
 
-I'm Ana, a full-stack software developer and Founding Engineer at FX-ATS Dev, where I build FinTech systems with **Nuxt, NestJS, MongoDB, and MT4/MT5**.
+**MetaTrader & FinTech full-stack developer.** I make MetaTrader talk to the web.
 
-I focus on building stable, scalable, and automated systems, with an emphasis on performance, usability, and developer experience. I use tools like **GitHub Actions, Cron, Pinia,** and others to automate workflows and optimize applications.
+I've been trading for about 5 years, and I build the technical side of it myself — systems that run on real money today. At **FX-ATS Group** I built and run the in-house trading infrastructure and monitoring, live for about 2 years.
 
-I'm also a digital designer with **6+ years** of experience in motion design, which gives me a strong eye for UI/UX, visual systems, and frontend aesthetics.
+**What I build**
 
-I enjoy solving challenging real-world problems and turning complex ideas into reliable, user-friendly products.
+- **MetaTrader systems** — Expert Advisors, indicators, MT4 ⇄ MT5 trade copiers (all four directions, signals under 1 s)
+- **FinTech dashboards** — real-time trading-account statistics, strategy ratings, client cabinets
+- **Integrations** — MT4/MT5 ↔ web via MQL + custom APIs, broker and exchange APIs (Binance, WhiteBit), payments
+- **DevOps for trading** — Ubuntu VPS, nginx, PM2, CI/CD with GitHub Actions, monitoring and live support
+
+**Stack:** Nuxt, Vue, Pinia, Tailwind · NestJS, TypeORM, Redis · MongoDB, MySQL · MQL4/MQL5 · TypeScript, Python · Ubuntu, GitHub Actions, Playwright
+
+I'm also a motion & digital designer (After Effects, Figma) — which is why my dashboards are meant to be read, not just to work.
+
+**Selected work**
+
+- **Multi-broker trading monitoring system** — Nuxt + NestJS platform with real-time stats from MT4/MT5 and crypto brokers, shareable account links, strategy ratings *(under NDA, overview on my site)*
+- **MT4/MT5 copier** — low-latency copying across terminals and brokers, AES-encrypted API, NestJS REST backend, VPS with auto-reconnect *(under NDA)*
+- **[Cloud Base](https://github.com/anastasiiabalv/cloud-storage-demo)** — cloud storage demo, work in progress
 
 <br>
 
-![GitHub Banner](github_banner.svg)
+[![GitHub Banner](github_banner.svg)](https://dev.anastasiiabalv.com/?utm_source=github)
 
 <br>
 
-<h2 align="center">Connect with me</h2>
+<h2 align="center">Work with me</h2>
 
 <p align="center">
-  <a href="https://anastasiiabalv.com" target="_blank">Website</a>
+  Need a MetaTrader system, a trading dashboard or an integration?
+</p>
+
+<p align="center">
+  <a href="https://dev.anastasiiabalv.com/?utm_source=github" target="_blank"><b>dev.anastasiiabalv.com</b></a>
   &nbsp; • &nbsp;
   <a href="https://www.linkedin.com/in/anastasiia-balieieva-33714936a/" target="_blank">LinkedIn</a>
   &nbsp; • &nbsp;
-  <a href="https://x.com/anastasiiabalv" target="_blank">Twitter</a>
+  <a href="https://x.com/anabalvdev" target="_blank">X</a>
   &nbsp; • &nbsp;
-  <a href="https://bsky.app/profile/anastasiiabalv.bsky.social" target="_blank">BlueSky</a>
+  <a href="https://bsky.app/profile/anabalvdev.bsky.social" target="_blank">Bluesky</a>
+  &nbsp; • &nbsp;
+  <a href="https://www.youtube.com/@anabalvdev" target="_blank">YouTube</a>
 </p>
 
 <br>
