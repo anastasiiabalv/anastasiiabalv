@@ -11,15 +11,7 @@ I've been trading for about 5 years, and I build the technical side of it myself
 - **Integrations** — MT4/MT5 ↔ web via MQL + custom APIs, broker and exchange APIs (Binance, WhiteBit), payments
 - **DevOps for trading** — Ubuntu VPS, nginx, PM2, CI/CD with GitHub Actions, monitoring and live support
 
-**Stack:** Nuxt, Vue, Pinia, Tailwind · NestJS, TypeORM, Redis · MongoDB, MySQL · MQL4/MQL5 · TypeScript, Python · Ubuntu, GitHub Actions, Playwright
-
 I'm also a motion & digital designer (After Effects, Figma) — which is why my dashboards are meant to be read, not just to work.
-
-**Selected work**
-
-- **Multi-broker trading monitoring system** — Nuxt + NestJS platform with real-time stats from MT4/MT5 and crypto brokers, shareable account links, strategy ratings *(under NDA, overview on my site)*
-- **MT4/MT5 copier** — low-latency copying across terminals and brokers, AES-encrypted API, NestJS REST backend, VPS with auto-reconnect *(under NDA)*
-- **[Cloud Base](https://github.com/anastasiiabalv/cloud-storage-demo)** — cloud storage demo, work in progress
 
 <br>
 
