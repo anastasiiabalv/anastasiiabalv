@@ -13,7 +13,7 @@ I'm also a motion & digital designer (After Effects, Figma) — which is why my 
 
 <br>
 
-[![Ana Balieieva — stack: design, front-end, back-end, trading, infra](stack.png)](https://dev.anastasiiabalv.com/?utm_source=github)
+[![Ana Balieieva — stack: design, front-end, back-end, trading, infra](stack-wide.png)](https://dev.anastasiiabalv.com/?utm_source=github)
 
 <br>
 
