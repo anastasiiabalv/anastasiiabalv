@@ -13,7 +13,7 @@ I'm also a motion & digital designer (After Effects, Figma) — which is why my 
 
 <br>
 
-[![GitHub Banner](github_banner.svg)](https://dev.anastasiiabalv.com/?utm_source=github)
+[![Ana Balieieva — stack: design, front-end, back-end, trading, infra](github_banner.png)](https://dev.anastasiiabalv.com/?utm_source=github)
 
 <br>
 
